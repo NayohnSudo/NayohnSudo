@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero animated banner -->
-<img src="https://raw.githubusercontent.com/YohannSidot/YohannSidot/main/assets/hero.svg"
+<img src="https://raw.githubusercontent.com/YohannSidot/YohannSidot/main/hero.svg"
      alt="Animated background banner"
      style="width:100%; max-height:70vh; object-fit:cover; border-radius:8px;" />
 
