@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO -->
-<img src="https://raw.githubusercontent.com/YohannSidot/YohannSidot/main/assets/hero.svg" alt="Animated Hero" />
+<img src="https://raw.githubusercontent.com/YohannSidot/YohannSidot/main/hero.svg" alt="Animated Hero" />
 
 # Yohann Sidot
 ### Freelance Web Application Penetration Tester & OSINT Specialist
@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/YohannSidot/YohannSidot/main/assets/separator.svg" alt="" />
+<img src="https://raw.githubusercontent.com/YohannSidot/YohannSidot/main/separator.svg" alt="" />
 
 ## Why work with me
 - **Focused** on **WebApp Pentest** (OWASP Top 10/ASVS) and **OSINT-driven recon** that finds real attack paths, not just noisy scans.  
