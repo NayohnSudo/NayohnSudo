@@ -6,7 +6,7 @@ I work with companies and individuals to identify vulnerabilities before malicio
 
 ---
 
-## 🛠 Technical Skills  
+## 🛠 Skills  
 
 **Penetration Testing & Offensive Security**
 - Web application pentesting (OWASP Top 10, SANS Top 25)
@@ -75,4 +75,3 @@ I work with companies and individuals to identify vulnerabilities before malicio
 
 ---
 
-> *"Security is not a product, but a process." — Bruce Schneier*
