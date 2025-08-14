@@ -1,64 +1,78 @@
-<div style="background: url('https://raw.githubusercontent.com/YohannSidot/YohannSidot/hero.gif') no-repeat center center fixed; background-size: cover; padding: 50px;">
+# Yohann Sidot — Freelance Penetration Tester & OSINT Specialist  
 
-<div align="center">
-
-<!-- Hero Section -->
-<img src="https://raw.githubusercontent.com/YohannSidot/YohannSidot/main/assets/hero.svg" width="100%" alt="Hero Banner"/>
-
-# 🕵️‍♂️ Yohann Sidot
-**Freelance Penetration Tester & OSINT Specialist**  
-<sub>Securing the web, one vulnerability at a time</sub>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yohannsidot)
-[![Email](https://img.shields.io/badge/Email-0f172a.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@yohann.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://yohann.dev)
+## 🚀 About Me  
+I’m an independent **Web Application Penetration Tester** and **OSINT Specialist** with a strong technical background in offensive security, threat intelligence, and network infrastructure.  
+I work with companies and individuals to identify vulnerabilities before malicious actors do, delivering clear, actionable security recommendations.  
 
 ---
 
-## 🚀 Skills & Tools
+## 🛠 Technical Skills  
 
-<table>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br>Python</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48"/><br>Bash</td>
-<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Kali_Linux_logo.svg" width="48"/><br>Kali Linux</td>
-<td align="center"><img src="https://avatars.githubusercontent.com/u/6716864?s=200&v=4" width="48"/><br>BurpSuite</td>
-<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Ghidra_logo.svg" width="48"/><br>Ghidra</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/><br>Linux</td>
-</tr>
-<tr>
-<td align="center"><img src="https://www.maltego.com/images/logo.svg" width="48"/><br>Maltego</td>
-<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Proxmox_logo.png" width="48"/><br>Proxmox</td>
-<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/VirtualBox_Logo.png" width="48"/><br>VirtualBox</td>
-<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sqlmap_logo.png" width="48"/><br>SQLmap</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/><br>C</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br>HTML5</td>
-</tr>
-</table>
+**Penetration Testing & Offensive Security**
+- Web application pentesting (OWASP Top 10, SANS Top 25)
+- Exploitation: XSS, SQL Injection, Path Traversal, IDOR, CSRF
+- Reverse engineering (Ghidra, IDA)
+- Mobile application testing (Android APK analysis)
+- Social engineering & phishing simulation (EvilGinx2, custom payloads)
+- Vulnerability exploitation automation (sqlmap, metasploit)
 
----
+**OSINT & Threat Intelligence**
+- Target profiling with Maltego, Sherlock, and custom scraping tools
+- Historical data analysis with Wayback Machine
+- Metadata extraction & investigation techniques
+- Dark web footprint mapping
 
-## 💼 Projects & Technical Experience
+**Infrastructure & Networking**
+- Linux administration (Ubuntu, Debian, Fedora)
+- Network simulation & lab environments (VirtualBox, Proxmox)
+- Firewall, DNS, DHCP, NAT, Proxy, DMZ configuration
+- Honeypot deployment (T-Pot)
+- Secure network isolation (Ubiquiti routers)
 
-- **Enterprise Network Simulation Lab** – Ubuntu + 2 VMs in VirtualBox, configured with static IP, DNS, proxy, firewall, DHCP, TCP/IP, HTTP GET/POST; attacker machine; DVWA server for exploitation.
-- **Proxmox Honeypot** – Isolated with Ubiquiti router, DMZ, NAT; deployed T-POT honeypot for multi-service attack surface monitoring.
-- **Bug Bounty & CTF Practice** – Root-Me, HackTheBox, TryHackMe, HackerOne, Intigriti; OWASP Top 10 webapp pentesting.
-- **Web Exploitation Tools** – BurpSuite, SQLmap, EvilGinx2 (phishing), reverse shell techniques, XSS, IDOR, path traversal.
-- **Reverse Engineering** – CrackMe challenges, Ghidra, IDA; APK analysis for Android malware testing.
-- **OSINT Tools** – Maltego, Sherlock, Wayback Machine for historical URL exploitation.
+**Programming & Scripting**
+- Python, Bash, C
+- Automation scripts for reconnaissance and exploitation
+- API interaction and data parsing
 
 ---
 
-## 📊 Stats & Achievements
+## 📂 Selected Projects  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YohannSidot&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=YohannSidot&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YohannSidot&layout=compact&theme=tokyonight)  
+**1. Enterprise Lab Simulation for Security Training**  
+- Built a 3-machine network environment with internal & external segments  
+- Configured attacker machine, DVWA host, and defensive services  
+- Tested real-world attack scenarios and mitigation strategies  
+
+**2. Honeypot Deployment & Threat Capture**  
+- Deployed T-Pot honeypot isolated in DMZ  
+- Collected, analyzed, and documented intrusion attempts  
+- Enhanced detection & alerting with custom scripts  
+
+**3. Web Application Pentest for E-Commerce Platform**  
+- Identified multiple vulnerabilities (XSS, IDOR, SQL Injection)  
+- Delivered remediation plan aligned with OWASP Top 10  
+- Reduced attack surface and improved incident response  
+
+**4. OSINT Investigation for Corporate Due Diligence**  
+- Mapped public footprint of target organization  
+- Identified leaked credentials and exposed assets  
+- Provided comprehensive risk assessment report  
 
 ---
 
-<!-- Footer Animation -->
-<img src="https://raw.githubusercontent.com/YohannSidot/YohannSidot/main/assets/footer-wave.svg" width="100%" />
+## 🎓 Education & Training  
+- Linux system administration (self-paced + lab environments)  
+- AI and ML fundamentals (transformers, GPU acceleration, model context protocols)  
+- Courses from Anthropic AI on prompt engineering & model deployment  
+- Continuous learning via Root-Me, HackTheBox, TryHackMe, HackerOne, Intigriti challenges  
 
-</div>
-</div>
+---
+
+## 📬 Contact  
+- **Email:** [contact@yohannsidot.com](mailto:contact@yohannsidot.com)  
+- **GitHub:** [github.com/YohannSidot](https://github.com/YohannSidot)  
+- **LinkedIn:** [linkedin.com/in/yohannsidot](https://linkedin.com/in/yohannsidot)  
+
+---
+
+> *"Security is not a product, but a process." — Bruce Schneier*
