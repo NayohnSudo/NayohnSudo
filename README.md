@@ -1,4 +1,4 @@
-<div style="background: url('https://raw.githubusercontent.com/YohannSidot/YohannSidot/main/hero.gif') no-repeat center center fixed; background-size: cover; padding: 50px;">
+<div style="background: url('https://raw.githubusercontent.com/YohannSidot/YohannSidot/hero.gif') no-repeat center center fixed; background-size: cover; padding: 50px;">
 
 <div align="center">
 
